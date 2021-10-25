@@ -1,0 +1,61 @@
+ h1 {
+	color: #fa1a0a;
+}
+
+div {
+	color: #fff;
+	border: #06748c 4px solid;
+	background-color: #730999;
+	padding-left: 30px;
+	border-radius: 50px;
+	text-align: center;
+
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.naryto {
+	list-style-type: none;
+}
+
+p {
+	font-style: italic;
+}
+
+img {
+	border: #c99206 5px solid;
+	border-radius: 200px;
+}
+
+.итачи {
+	color: #07b09c;
+}
+
+.саске {
+	color: #0723b0;
+}
+
+.sakyra {
+	color: #0cf0e1;
+}
+
+.kakasi {
+	color: #0cf014 
+}
+
+ul {
+	list-style-type: square;
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: #edafd4;
+}
+
